@@ -11,3 +11,4 @@ app.listen(3000,()=>{
     console.log("端口已经挂载！！")
     // 304
 })
+console.log('bqq');
